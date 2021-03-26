@@ -164,6 +164,12 @@ body {
 }
 
 /*footer*/
+.footer__container {
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+    
+}
 
 .footer {
     width: 100%;
